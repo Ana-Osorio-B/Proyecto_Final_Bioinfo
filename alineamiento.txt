@@ -1,0 +1,17 @@
+#Pedir recursos
+salloc
+#Cargar el módulo
+module load muscle/3.8.31
+#Hacer los seis alineamientos
+#1. Panama
+muscle -in Ind_panama.fasta -out Panama_muscle.fasta
+#2. French Guiana
+muscle -in Ind_french_guiana.fasta -out French_guiana_muscle.fasta
+#3. Ecuador Costa
+muscle -in Ind_ecuador_co.fasta -out Ecuador_co_muscle.fasta
+#Ecuador Amazonas
+muscle -in Ind_ecuador_ama.fasta -out Ecuador_ama_muscle.fasta
+#Bolivia
+muscle -in Ind_bolivia.fasta -out French_bolivia.fasta
+#Costa rica
+muscle -in Ind_costa_rica.fasta -out Costa_rica_muscle.fasta
