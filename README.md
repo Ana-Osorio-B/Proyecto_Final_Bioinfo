@@ -9,9 +9,9 @@ Facultad de Ciencias Naturales, Universidad del Rosario, Carrera 24 # 63C-69, Bo
 Los datos usados en el proyecto estan disponibles es la carpeta [DATOS](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/DATOS)
 
 Los scripts para la obtención de resultados son los siguientes:
-1. Concatenación de secuencias según la población, [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/Poblaciones.sh)
-2. Alineamiento en muscle, [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/alineamiento.txt)
-3. Determinación de AMOVA y FST, [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/AMOVA-FST.R)
+1. Concatenación de secuencias según la población [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/Poblaciones.sh)
+2. Alineamiento en muscle [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/alineamiento.txt)
+3. Determinación de AMOVA y FST [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/AMOVA-FST.R)
 
 ### RESULTADOS
 
