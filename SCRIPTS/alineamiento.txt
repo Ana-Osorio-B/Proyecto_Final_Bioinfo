@@ -15,3 +15,8 @@ muscle -in Ind_ecuador_ama.fasta -out Ecuador_ama_muscle.fasta
 muscle -in Ind_bolivia.fasta -out French_bolivia.fasta
 #Costa rica
 muscle -in Ind_costa_rica.fasta -out Costa_rica_muscle.fasta
+
+#Cambio de nombres de secuencias
+sed -E -i 's/(>\w+.\w\s\w+\s\w+)\s.*/\1/g' muscle.fasta
+sed -i '/^>/! s/R/N/g' *.fasta
+sed -i '/^>/! s/Y/N/g' *.fasta
