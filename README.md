@@ -33,6 +33,9 @@ Entre poblaciones|5|159.7|31.9|-0.8
 Dentro de las poblaciones|75|2692.7|35.9|100.8 
 Total|80|2852.5|35.6|100 
 
+### DISCUSIÓN
+
+### CONCLUSIONES
 
 
 
