@@ -37,7 +37,7 @@ Dentro de las poblaciones|75|2692.7|35.9|100.8
 Total|80|2852.5|35.6|100 
 
 
-![ANOVA]()
+![ANOVA](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/main/grafica_anova.png)
 
 **Figura 2.** Distribución de la diversidad nucleotídica de la prueba ANOVA en relación con tres niveles de precipitación (alta, media y poca). Valores P > 0.05. 
 
