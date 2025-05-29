@@ -39,7 +39,7 @@ Total|80|2852.5|35.6|100
 
 ![ANOVA](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/main/grafica_anova.png)
 
-**Figura 2.** Distribución de la diversidad nucleotídica de la prueba ANOVA en relación con tres niveles de precipitación (alta, media y poca). Valores P > 0.05. 
+**Figura 2.** Distribución de la diversidad nucleotídica de la prueba ANOVA en relación con tres niveles de precipitación (alta, media y poca) y dos niveles de altura (alta y baja). Valores P > 0.05. 
 
 
 ![PCA](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/743135668d7d83e77c4bbf8a61d5f33a24c8025e/PCA.png)
