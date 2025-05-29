@@ -12,9 +12,9 @@ Los scripts para la obtención de resultados son los siguientes:
 1. Concatenación de secuencias según la población [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/Poblaciones.sh)
 2. Alineamiento en muscle [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/alineamiento.txt)
 3. Determinación de AMOVA y FST [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/AMOVA-FST.R)
-4. Creación de modelo lineal [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/Modelo_lineal.R)
-5. Prueba ANOVA [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/ANOVA.R)
-6. Determinación de PCA [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/PCA.R)
+4. Creación de modelo lineal [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/7fdbb7da1fc097951d3a6e481512949df8431c38/SCRIPTS/Modelo_lineal.R)
+6. Prueba ANOVA [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/7fdbb7da1fc097951d3a6e481512949df8431c38/SCRIPTS/ANOVA.R)
+7. Determinación de PCA [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/7fdbb7da1fc097951d3a6e481512949df8431c38/SCRIPTS/PCA.R)
 
 ### RESULTADOS
 
