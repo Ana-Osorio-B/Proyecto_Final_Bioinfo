@@ -12,6 +12,9 @@ Los scripts para la obtención de resultados son los siguientes:
 1. Concatenación de secuencias según la población [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/Poblaciones.sh)
 2. Alineamiento en muscle [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/alineamiento.txt)
 3. Determinación de AMOVA y FST [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/AMOVA-FST.R)
+4. Creación de modelo lineal [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/Modelo_lineal.R)
+5. Prueba ANOVA [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/ANOVA.R)
+6. Determinación de PCA [aquí](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/58b5cc755486faf3261f70f77ec88cae55e4b1dc/SCRIPTS/PCA.R)
 
 ### RESULTADOS
 
@@ -33,9 +36,10 @@ Entre poblaciones|5|159.7|31.9|-0.8
 Dentro de las poblaciones|75|2692.7|35.9|100.8 
 Total|80|2852.5|35.6|100 
 
-### DISCUSIÓN
+![ANOVA]()
+**Figura 2.** Distribución de la diversidad nucleotídica de la prueba ANOVA en relación con tres niveles de precipitación (alta, media y poca). Valores P > 0.05. 
 
-### CONCLUSIONES
-
+![PCA](https://github.com/Ana-Osorio-B/Proyecto_Final_Bioinfo/blob/451a25345c82126df9e96768d950ef8d79c338c4/PCA.png)
+**Figura 3.** Análisis de componentes principales de los individuos de la tribu Euglosinii. La agrupación se lleva a cabo respecto a precipitación (mm) y elevación (msnm) registrada en las poblaciones. Se explica un total de 40.5% de la variación, dividido en dos componentes.  
 
 
