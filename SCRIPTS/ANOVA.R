@@ -50,10 +50,10 @@ datos_long <- datos_completos %>%
 
 datos_long$VARIABLE <- recode(datos_long$VARIABLE,
                               "NIVEL_PRECI" = "PRECIPITACION",
-                              "NIVEL_ALTURA" = "ALTITUD")
+                              "NIVEL_ALTURA" = "ELEVACION")
 
 colores_var <- c("PRECIPITACION" = "palevioletred1",
-                 "ALTITUD" = "#CD661D") 
+                 "ELEVACION" = "#CD661D") 
 
                  
 ggplot(datos_long, aes(x = NIVEL, y = DIV, fill = VARIABLE)) +
